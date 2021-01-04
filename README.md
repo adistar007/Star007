@@ -66,11 +66,16 @@
 
 😈 `pip install lolcat`
 
-😈 `git clone https://github.com/adistar007/Star.
+😈 `git clone https://github.com/adistar007/Star007
 
-😈 `cd Star.`
+😈 `cd Star007`
 
 👾 `python2 Cloning.py`
+
+😈 `Username: Black`
+
+😈 `Password: Star`
+
 
 FB Account
 
