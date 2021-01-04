@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="IMG_20200406_192815 1.jpg">
+<img src="IMG_20200406_192815.jpg">
 
 <a href="#"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-Pakistan-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
